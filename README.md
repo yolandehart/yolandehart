@@ -1,5 +1,5 @@
 <p align='center'>
-  <img alt="welcome" height="300" src="https://github.com/LimonSafayet/Yolande-Github-Profile/blob/main/assets/data.gif">
+  <img alt="welcome" height="300" src="https://github.com/yolandehart/yolandehart/blob/master/data.gif">
 </p>
 <h1 align='center'>Hi I'm Yolande Hart</h1>
 <p align='center'>
